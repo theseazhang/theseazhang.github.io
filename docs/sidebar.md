@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- docs/sidebar.md -->
 
 * [关于我](README.md)
 * git
