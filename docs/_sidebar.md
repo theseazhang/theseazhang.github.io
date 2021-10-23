@@ -2,4 +2,4 @@
 
 * [关于我](README.md)
 * git
-    * [git和github pages](git/1023.md)
+    * [git命令](git/1023.md)
