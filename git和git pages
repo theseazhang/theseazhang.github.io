@@ -6,3 +6,7 @@
 磕磕绊绊的学习git命令，并乐在其中：
 
 —— by 沧海 2021年10月23日
+
+git add -A
+git commit -m "by 沧海"
+git push origin main
