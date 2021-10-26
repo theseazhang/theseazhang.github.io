@@ -1,7 +1,7 @@
 [user]
-	mail = 534929089@qq.com
-	name = theseazhang
-	email = 534929089@qq.com
+    mail = 534929089@qq.com
+    name = theseazhang
+    email = 534929089@qq.com
 [alias]
     ad = add
     au = add -u
@@ -9,15 +9,15 @@
     ai = add -i
 
     br = branch
-	
-	ch = checkout
-	chb = checkout -b
-	
+
+    ch = checkout
+    chb = checkout -b
+
     cl = clone
 
     cm = commit -m
 
-	pm = push origin main
+    pm = push origin main
 
     fe = fetch
 
