@@ -1,6 +1,0 @@
-//mytestlib 测试扩展库
-namespace mytestlib
-
-run = function(a, b){
-	return  a+b; 
-}
