@@ -1,0 +1,28 @@
+[user]
+	mail = 534929089@qq.com
+	name = theseazhang
+	email = 534929089@qq.com
+[alias]
+    ad = add
+    au = add -u
+    aa = add -A
+    ai = add -i
+
+    br = branch
+	
+	ch = checkout
+	chb = checkout -b
+	
+    cl = clone
+
+    cm = commit -m
+
+	pm = push origin main
+
+    fe = fetch
+
+    st = status
+    sst = status -s
+
+    sh = show
+    ssh = show --stat
