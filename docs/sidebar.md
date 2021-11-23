@@ -5,3 +5,5 @@
     * [git学习的体会](git/1026.md)
 * basic 
     * [16进制](basic/1027.md)
+* mind 
+    * [建立几条生活准则](mind/1123.md)
